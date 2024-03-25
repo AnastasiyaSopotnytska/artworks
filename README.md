@@ -1,1 +1,2 @@
-# artworks-task
+## Run project:
+### `npm start`
